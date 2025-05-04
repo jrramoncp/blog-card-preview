@@ -24,7 +24,7 @@ El primer reto en Frontend Mentor, donde crearemos una tarjeta de previsalizaci�
 
 ## 🔗 Links / Enlaces
 
-- 🛠️ **Solution / Solución:** [Add your solution URL](https://www.frontendmentor.io/solutions/qr-component-made-with-html-and-tailwindcss-hx_hwq8-IQ)  
+- 🛠️ **Solution / Solución:** [Add your solution URL](https://www.frontendmentor.io/solutions/blog-card-tailwind-css-I5HHttYLDQ)  
 - 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/blog-card-preview/)
 
 ---
