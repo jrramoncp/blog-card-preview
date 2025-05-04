@@ -25,7 +25,7 @@ El primer reto en Frontend Mentor, donde crearemos una tarjeta de previsalizaci�
 ## 🔗 Links / Enlaces
 
 - 🛠️ **Solution / Solución:** [Add your solution URL](https://www.frontendmentor.io/solutions/qr-component-made-with-html-and-tailwindcss-hx_hwq8-IQ)  
-- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/qr-component-tailwind/)
+- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/blog-card-preview/)
 
 ---
 
@@ -36,12 +36,6 @@ El primer reto en Frontend Mentor, donde crearemos una tarjeta de previsalizaci�
 - 🧩 HTML semántico
 - 🎨 Tailwind CSS
 - 📱 Mobile-first workflow
-
-### 📚 What I Learned / Lo que Aprendí
-
-🇬🇧 This was my first Tailwind project and I was impressed by how fast and flexible it is. Coming from Sass, I realized utility-first CSS can be powerful when used right.
-
-🇪🇸 Este fue mi primer proyecto con Tailwind y me sorprendió lo rápido y flexible que es. Viniendo de Sass, descubrí que el CSS basado en utilidades puede ser muy potente si se usa bien.
 
 ### 🔁 Continued Development / Desarrollo futuro
 

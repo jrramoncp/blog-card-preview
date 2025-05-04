@@ -6,24 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
-    <title> QR component</title>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <title> Blog Card Preview </title>
   </head>
-  <body class="h-screen font-[Outfit] bg-[#D5E1EF] flex flex-col justify-center items-center p-4">
-    <main>
-      <section class="flex flex-col justify-center items-center bg-white p-4 m-5 rounded-2xl w-[320px] ">
-        <img src="/img/image-qr-code.png" alt="qr code image" class="w-72 h-72 rounded-2xl">
-        <h1 class="text-center font-bold mt-6 text-slate-900 text-[22px] leading-[120%]">Improve your front-end skills by building projects</h1>
-        <p class="text-center text-[15px] text-slate-500 mt-4 mb-10 leading-[140%]">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+  <body class="h-screen bg-[#F4D04E] flex justify-center items-center flex-col">
+    <main class="mx-4">
+      <section id="card" class="bg-white p-6 rounded-2xl shadow-2xl card-shadow max-w-[400px] border-1">
+        <img src="/img/illustration-article.svg" alt="article image">
+        <button class="bg-[#F4D04E] border-none rounded-lg font-bold text-size-responsive px-3 py-1 mt-6 mb-4 leading-[150%]">Learning</button>
+        <p class="text-size-responsive text-gray-950 mb-4">Published 21 Dec 2023</p>
+        <h1 class="title-size-responsive text-black font-extrabold mb-4 hover:text-[#F4D04E] cursor-pointer">HTML & CSS foundations</h1>
+        <p class="text-size-responsive text-gray-500 mb-6">These languages are the backbone of every website, defining structure, content, and presentation.</p>
+        <div id="user" class="flex flex-row items-center gap-3">
+          <img src="/img/image-avatar.webp" alt="gregg hopper profile picture" class="w-12">
+          <h2 class="font-extrabold text-size-responsive">Gregg Hooper</h2>
+        </div>
       </section>
     </main>
-    <footer class="h-6">
+    <footer class="absolute bottom-3">
       <div class="attribution text-center">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.  <br>
         Coded by <a href="#">JrramonCP</a>.
       </div>
     </footer>
-    <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>

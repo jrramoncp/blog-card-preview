@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: '/qr-component-tailwind/',
+  base: '/blog-card-preview/',
 })
